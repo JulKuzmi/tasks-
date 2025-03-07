@@ -24,10 +24,23 @@
 // // Услловное ветвление (If/Ilse )
 // // условие - на улице жарко? Да - надену футболку
 // // Нет()дождь- останусь дома)
-let wether = "sunny";
+// let wether = "sunny";
 
-if (wether === "sunny") {
-  console.log("Там тепло надень футболку!");
+// if (wether === "sunny") {
+//   console.log("Там тепло надень футболку!");
+// } else {
+//   console.log("Останусь дома");
+// }
+
+let wether = "ranny ";
+let time = "morning";
+
+if (wether === "ranny") {
+  console.log("едем домой на такси");
+} else if (time === "morning") {
+  console.log("еду на самокате мимо пробок на работу");
 } else {
-  console.log("Останусь дома");
+}
+console.log("едем на автобусе");
+{
 }
