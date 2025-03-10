@@ -32,15 +32,21 @@
 //   console.log("Останусь дома");
 // }
 
-let wether = "ranny ";
-let time = "morning";
+// let wether = "ranny ";
+// let time = "morning";
 
-if (wether === "ranny") {
-  console.log("едем домой на такси");
-} else if (time === "morning") {
-  console.log("еду на самокате мимо пробок на работу");
-} else {
-}
-console.log("едем на автобусе");
-{
-}
+// if (wether === "ranny") {
+//   console.log("едем домой на такси");
+// } else if (time === "morning") {
+//   console.log("еду на самокате мимо пробок на работу");
+// } else {
+// }
+// console.log("едем на автобусе");
+// {
+// }
+// Циклы, Вывести в консоль числа от 7 до 22(включительно)
+// let i = 7;
+// while (i <= 22) {
+//   console.log(i);
+//   i++;
+// }
