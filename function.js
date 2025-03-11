@@ -15,3 +15,15 @@ function showMessage() {
   console.log(message);
 }
 showMessage();
+
+function ageVerification(question) {
+  let userAge = prompt(question);
+
+  if (userAge >= 18) {
+    console.log("Вам уже есть 18! Добро пожаловать");
+  } else {
+    console.log("Ой, Вы пока слишком  молоды");
+  }
+}
+
+ageVerification("Сколько вам лет?");
